@@ -1,0 +1,66 @@
+
+.t2{
+	position: absolute;
+	top: 10%;
+	font-family: KG A Little Swag;
+	font-size: 100px;
+	right: 10%;
+    width: 80%;
+	color: #C39BD3 ;
+}
+
+
+.t3{
+	position: absolute;
+	top: 30%;
+	font-family: Paper Flowers;
+	font-size: 55px;
+	left: 28%;
+}
+
+.p{
+    background-color: #AED6F1;
+    font-family: Paper Flowers;
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 33px;
+    cursor: pointer;
+    position: absolute;
+    left: 30%;
+    top: 74%;
+    border-radius: 50px;
+    color: black;
+    border: none;
+}
+.p:hover {
+background-color: #D1F2EB;
+color: #17202A;
+}
+
+
+.a{
+    background-color: #AED6F1;
+    font-family: Paper Flowers;
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 33px;
+    cursor: pointer;
+    position: absolute;
+    left: 60%;
+    top: 74%;
+    border-radius: 50px;
+    color: black;
+    border: none;
+}
+.a:hover{
+background-color: #D1F2EB;
+color: #17202A;
+}

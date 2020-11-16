@@ -1,0 +1,172 @@
+.t2{
+    position: absolute;
+    top: 10%;
+    font-family: KG A Little Swag;
+    font-size: 100px;
+    right: 10%;
+    width: 80%;
+    color: #C39BD3 ;
+}
+
+
+.p{
+    background-color: #AED6F1;
+    font-family: Paper Flowers;
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 33px;
+    cursor: pointer;
+    position: absolute;
+    left: 30%;
+    top: 27%;
+    border-radius: 50px;
+    color: black;
+    border: none;
+}
+.p:hover{
+background-color: #D1F2EB;
+color: #17202A;
+}
+
+
+.a{
+    background-color: #AED6F1;
+    font-family: Paper Flowers;
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 33px;
+    cursor: pointer;
+    position: absolute;
+    left: 60%;
+    top: 27%;
+    border-radius: 50px;
+    color: black;
+    border: none;
+}
+.a:hover{
+background-color: #D1F2EB;
+color: #17202A;
+}
+
+.pulpo{
+    position: absolute;
+left: 5px;
+top: 46%;
+ width: 370px;
+    height: 270px;
+color: white;
+}
+.tpulpo{
+      position: absolute;
+left: 28%;
+top: 66%;
+color: black;
+font-family: Denk One;
+font-size: 19px;
+}
+
+
+.cangre{
+    position: absolute;
+left: 44%;
+top: 46%;
+ width: 370px;
+    height: 270px;
+color: white;
+}
+.tcangre{
+      position: absolute;
+left: 83%;
+top: 67%;
+color: black;
+font-family: Denk One;
+font-size: 19px;
+}
+
+
+.pama{
+    position: absolute;
+left: 5px;
+top: 89%;
+ width: 370px;
+    height: 270px;
+color: white;
+}
+.tpama{
+position: absolute;
+left: 29%;
+top: 128%;
+color: black;
+font-family: Denk One;
+font-size: 19px;
+}
+
+
+
+.verde{
+    position: absolute;
+left: 44%;
+top: 89%;
+ width: 370px;
+    height: 270px;
+color: white;
+}
+.tverde{
+      position: absolute;
+left: 83%;
+top: 128%;
+color: black;
+font-family: Denk One;
+font-size: 19px;
+}
+
+.balle{
+    position: absolute;
+left: 5px;
+top: 135%;
+ width: 370px;
+    height: 270px;
+color: white;
+}
+.tballe{
+position: absolute;
+left: 29%;
+top: 192%;
+color: black;
+font-family: Denk One;
+font-size: 19px;
+}
+
+
+
+.azul{
+    position: absolute;
+left: 44%;
+top: 135%;
+ width: 370px;
+    height: 270px;
+color: white;
+}
+.tazul{
+      position: absolute;
+left: 83%;
+top: 192%;
+color: black;
+font-family: Denk One;
+font-size: 19px;
+}
+
+.pul{
+    width: 10%;
+    height: 10%;
+    top: 60%;
+
+}
